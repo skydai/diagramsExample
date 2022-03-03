@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-03T12:34:45.083Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 Edg/96.0.1054.62" etag="bvFH7STQreYqjJDXtKFw" version="16.6.1" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2022-03-03T12:38:58.523Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 Edg/96.0.1054.62" etag="VDLG3yNqeW56sukhxa6w" version="16.6.1" type="github" pages="5">
   <diagram id="P80EDRxeVCt8WHDjeRlq" name="Demeter MVP">
     <mxGraphModel dx="1032" dy="2092" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -478,7 +478,7 @@
         <mxCell id="KJLlCfEV6BKomLMIl_Fm-142" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;sketch=0;fontFamily=Comic Sans MS;fontSize=14;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="1220" y="1430" width="680" height="420" as="geometry" />
         </mxCell>
-        <mxCell id="KJLlCfEV6BKomLMIl_Fm-144" value="配置注入" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;sketch=0;fontFamily=Comic Sans MS;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="KJLlCfEV6BKomLMIl_Fm-144" value="部署策略" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;sketch=0;fontFamily=Comic Sans MS;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="1230" y="1440" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="KJLlCfEV6BKomLMIl_Fm-145" value="" style="endArrow=classicThin;html=1;fontFamily=Comic Sans MS;fontSize=14;endFill=1;strokeColor=default;targetPerimeterSpacing=0;strokeWidth=2;sketch=1;shadow=1;textOpacity=50;labelBorderColor=none;edgeStyle=orthogonalEdgeStyle;curved=1;" edge="1" parent="1">
@@ -495,8 +495,8 @@
         <mxCell id="KJLlCfEV6BKomLMIl_Fm-146" value="最高优先级" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;fontFamily=Comic Sans MS;" vertex="1" parent="1">
           <mxGeometry x="1120" y="1370" width="90" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="KJLlCfEV6BKomLMIl_Fm-147" value="亲和性设置" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;sketch=0;fontFamily=Comic Sans MS;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="1251" y="1490" width="79" height="40" as="geometry" />
+        <mxCell id="KJLlCfEV6BKomLMIl_Fm-147" value="Name:" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;sketch=0;fontFamily=Comic Sans MS;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="1355.5" y="1440" width="79" height="40" as="geometry" />
         </mxCell>
         <mxCell id="KJLlCfEV6BKomLMIl_Fm-148" value="Choose a ClusterGroup" style="rounded=1;fillColor=none;strokeColor=none;html=1;fontColor=#596780;align=left;fontSize=11;spacingLeft=10;fontSize=11;shadow=0;glass=0;sketch=0;fontFamily=Comic Sans MS;" vertex="1" parent="1">
           <mxGeometry x="1430" y="1670" width="120" height="20" as="geometry" />
@@ -548,7 +548,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="KJLlCfEV6BKomLMIl_Fm-189" value="集群选择类型" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;sketch=0;fontFamily=Comic Sans MS;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="1251" y="1530" width="99" height="60" as="geometry" />
+          <mxGeometry x="1250" y="1530" width="99" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KJLlCfEV6BKomLMIl_Fm-202" value="s" style="rounded=1;fillColor=#253858;strokeColor=none;html=1;shadow=0;glass=0;sketch=0;fontFamily=Comic Sans MS;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="1360" y="1610" width="150" height="33" as="geometry" />
@@ -673,8 +673,14 @@
         <mxCell id="KJLlCfEV6BKomLMIl_Fm-238" value="......." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;fontFamily=Comic Sans MS;" vertex="1" parent="1">
           <mxGeometry x="3180" y="1020" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="KJLlCfEV6BKomLMIl_Fm-239" value="" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;sketch=0;fontFamily=Comic Sans MS;fontSize=14;strokeColor=default;" vertex="1" parent="1">
-          <mxGeometry x="1360" y="1495" width="170" height="30" as="geometry" />
+        <mxCell id="KJLlCfEV6BKomLMIl_Fm-240" value="忍容度：" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;sketch=0;fontFamily=Comic Sans MS;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="1360" y="1480" width="79" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KJLlCfEV6BKomLMIl_Fm-241" value="亲和性:" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;sketch=0;fontFamily=Comic Sans MS;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="1500" y="1480" width="79" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KJLlCfEV6BKomLMIl_Fm-242" value="标签：" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;sketch=0;fontFamily=Comic Sans MS;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="1640" y="1480" width="79" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
