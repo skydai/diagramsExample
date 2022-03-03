@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-03T12:32:34.689Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 Edg/96.0.1054.62" etag="Zg4dezguu7QbCZGJ0iHB" version="16.6.1" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2022-03-03T12:34:03.025Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 Edg/96.0.1054.62" etag="L_iXDgdaDz0mIdU7ZXRY" version="16.6.1" type="github" pages="5">
   <diagram id="P80EDRxeVCt8WHDjeRlq" name="Demeter MVP">
     <mxGraphModel dx="1032" dy="2092" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -656,6 +656,22 @@
         </mxCell>
         <mxCell id="KJLlCfEV6BKomLMIl_Fm-235" value="确认发布" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;sketch=0;fontFamily=Comic Sans MS;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="2920" y="705" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KJLlCfEV6BKomLMIl_Fm-236" value="上一步" style="rounded=1;fillColor=#0057D8;align=center;strokeColor=none;html=1;fontColor=#ffffff;fontSize=12;sketch=0;shadow=0;glass=0;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="2217" y="1400" width="86" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="KJLlCfEV6BKomLMIl_Fm-237" value="" style="endArrow=classicThin;html=1;fontFamily=Comic Sans MS;fontSize=14;endFill=1;strokeColor=default;targetPerimeterSpacing=0;strokeWidth=2;sketch=1;shadow=1;textOpacity=50;labelBorderColor=none;edgeStyle=orthogonalEdgeStyle;curved=1;startArrow=none;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2920" y="1034" as="sourcePoint" />
+            <mxPoint x="3170" y="1035" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="2990" y="1034.5" />
+              <mxPoint x="3055" y="1034.5" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KJLlCfEV6BKomLMIl_Fm-238" value="......." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="3180" y="1020" width="40" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
